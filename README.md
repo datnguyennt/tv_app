@@ -1,21 +1,10 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">Android App Tivi</h3>
 </p>
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 App hoạt động giống như một web browser
 
 ### Plugin sử dụng
-
-Used below plugings for this project
 
 - get: ^4.3.8
 - intl: ^0.17.0
