@@ -1,16 +1,40 @@
-# tv_app
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-A new Flutter project.
+<!-- PROJECT LOGO -->
+<p align="center">
+  <h3 align="center">Android App Tivi</h3>
+</p>
 
-## Getting Started
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is a starting point for a Flutter application.
+App hoạt động giống như một web browser
 
-A few resources to get you started if this is your first Flutter project:
+### Plugin sử dụng
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Used below plugings for this project
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- get: ^4.3.8
+- intl: ^0.17.0
+- webview_flutter: ^2.1.2
+- fluttertoast: ^8.0.8
+- hive: ^2.0.4
+- hive_flutter: ^1.1.0
+- flutter_launcher_icons: ^0.9.2
+
+<!-- GETTING STARTED -->
+
+### Cài đặt
+
+1. Clone repo
+   ```sh
+   git clonehttps://github.com/datnguyennt/tv_app.git
+   ```
+2. Cài các package cần thiết
+   ```sh
+   flutter pub get
+   ```
+3. Run app
